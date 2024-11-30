@@ -1,1 +1,1 @@
-# TripSaathi
+# JournAI
